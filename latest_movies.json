@@ -2,6 +2,722 @@
   "yts_url": "https://yts.lt",
   "movies": [
     {
+      "title": "Predator: Badlands (2025)",
+      "year": 2025,
+      "subtitle_list": [
+        {
+          "id": 13478691,
+          "filename": "Predator.Badlands.2025.2160p.iT.WEB-DL.DV.HDR10+.MULTi.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN-VETEMSHQIP",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13478691"
+        }
+      ],
+      "date_uploaded": "2026-01-08 03:55:58",
+      "is_featured": true,
+      "yts_data": {
+        "id": 73361,
+        "url": "/movies/predator-badlands-2025?8tbGJuKM5zzJ6FoozJBav9NqiMx0ckd3q1hh_CfIeL2f",
+        "imdb_code": "tt31227572",
+        "title": "Predator: Badlands",
+        "title_english": "Predator: Badlands",
+        "title_long": "Predator: Badlands (2025)",
+        "slug": "predator-badlands-2025",
+        "year": 2025,
+        "rating": 7.3,
+        "runtime": 107,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "like_count": 21,
+        "description_intro": "",
+        "description_full": "Një Predator i ri i përjashtuar nga klani i tij gjen një aleat të papritur në udhëtimin e tij në kërkim të kundërshtarit suprem.",
+        "yt_trailer_code": "9PgcAIgpwPA",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/predator_badlands_2025/background.jpg",
+        "small_cover_image": "/assets/images/movies/predator_badlands_2025/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/predator_badlands_2025/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/predator_badlands_2025/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/predator_badlands_2025/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/predator_badlands_2025/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/predator_badlands_2025/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/predator_badlands_2025/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/predator_badlands_2025/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/predator_badlands_2025/large-screenshot3.jpg",
+        "torrents": [
+          {
+            "url": "/torrent/download/C3BE58C54784BDF7722CFF7E12915000AACCBD8C?8tbGJuKM5zzJ6FoozJBav9NqiMx0ckd3q1hh_CfIeL2f",
+            "hash": "C3BE58C54784BDF7722CFF7E12915000AACCBD8C",
+            "quality": "2160p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x265",
+            "bit_depth": "10",
+            "audio_channels": "5.1",
+            "size": "4.82 GB",
+            "size_bytes": 5175435592
+          }
+        ]
+      }
+    },
+    {
+      "title": "Vice (2018)",
+      "year": 2018,
+      "subtitle_list": [
+        {
+          "id": 13480656,
+          "filename": "Vice 2018 ALBANIAN SUBS",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13480656"
+        }
+      ],
+      "date_uploaded": "2026-01-08 03:55:50",
+      "yts_data": {
+        "id": 11172,
+        "url": "/movies/vice-2018?Rbb6o4nSz5kLhSmnz345RK9a33Sd6ryA6zvoVPncMF_X",
+        "imdb_code": "tt6266538",
+        "title": "Vice",
+        "title_english": "Vice",
+        "title_long": "Vice (2018)",
+        "slug": "vice-2018",
+        "year": 2018,
+        "rating": 7.2,
+        "runtime": 132,
+        "genres": [
+          "Action",
+          "Biography",
+          "Comedy",
+          "Drama",
+          "History"
+        ],
+        "like_count": 122,
+        "description_intro": "Governor George W. Bush of Texas, picks Dick Cheney, the CEO of Halliburton Company, to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive resume includes stints as White House Chief of Staff, House Minority Whip, and Defense Secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.—Jwelch5742",
+        "description_full": "Historia e Dick Cheney-t, një zyrtari i brendshëm i Washington-it i cili nuk bie në sy, që ushtroi në heshtje një fuqi të madhe si Zëvendës President i George W. Bush-it, duke riformuar vendin dhe globin në mënyra që ndihen edhe sot.",
+        "yt_trailer_code": "g09a9laLh0k",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/vice_2018/background.jpg",
+        "small_cover_image": "/assets/images/movies/vice_2018/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/vice_2018/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/vice_2018/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/vice_2018/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/vice_2018/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/vice_2018/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/vice_2018/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/vice_2018/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/vice_2018/large-screenshot3.jpg",
+        "cast": [
+          {
+            "name": "Jesse Plemons",
+            "character_name": "Kurt",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0687146.jpg",
+            "imdb_code": "0687146"
+          },
+          {
+            "name": "Brandon Sklenar",
+            "character_name": "Bobby Prentace",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm3996999.jpg",
+            "imdb_code": "3996999"
+          },
+          {
+            "name": "Kirk Bovill",
+            "character_name": "Henry Kissinger",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm1922787.jpg",
+            "imdb_code": "1922787"
+          },
+          {
+            "name": "Christian Bale",
+            "character_name": "Dick Cheney",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000288.jpg",
+            "imdb_code": "0000288"
+          }
+        ],
+        "torrents": [
+          {
+            "url": "/torrent/download/6322536DB4674CC3CAE967260D902F91E5C13FF9?Rbb6o4nSz5kLhSmnz345RK9a33Sd6ryA6zvoVPncMF_X",
+            "hash": "6322536DB4674CC3CAE967260D902F91E5C13FF9",
+            "quality": "720p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.1 GB",
+            "size_bytes": 1181116006
+          },
+          {
+            "url": "/torrent/download/782ED44973AF44F151CD9A545C69FAC2B65A74E0?Rbb6o4nSz5kLhSmnz345RK9a33Sd6ryA6zvoVPncMF_X",
+            "hash": "782ED44973AF44F151CD9A545C69FAC2B65A74E0",
+            "quality": "1080p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "2.12 GB",
+            "size_bytes": 2276332667
+          },
+          {
+            "url": "/torrent/download/F3F7CAF6A791AC9BCF12C09DB46692C3BCD92B99?Rbb6o4nSz5kLhSmnz345RK9a33Sd6ryA6zvoVPncMF_X",
+            "hash": "F3F7CAF6A791AC9BCF12C09DB46692C3BCD92B99",
+            "quality": "720p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.1 GB",
+            "size_bytes": 1181116006
+          },
+          {
+            "url": "/torrent/download/6053C495548E1519B12F44A7D4F0C268402096B6?Rbb6o4nSz5kLhSmnz345RK9a33Sd6ryA6zvoVPncMF_X",
+            "hash": "6053C495548E1519B12F44A7D4F0C268402096B6",
+            "quality": "1080p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "2.11 GB",
+            "size_bytes": 2265595249
+          }
+        ]
+      }
+    },
+    {
+      "title": "Dan in Real Life (2007)",
+      "year": 2007,
+      "subtitle_list": [
+        {
+          "id": 13480658,
+          "filename": "Dan in Real Life 2007 ALBANIAN SUBS",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13480658"
+        }
+      ],
+      "date_uploaded": "2026-01-08 03:55:46",
+      "yts_data": {
+        "id": 824,
+        "url": "/movies/dan-in-real-life-2007?byvbiIGrJRorHGVo6fWjlYaNHC4vrhx8gem9ydcthrtP",
+        "imdb_code": "tt0480242",
+        "title": "Dan in Real Life",
+        "title_english": "Dan in Real Life",
+        "title_long": "Dan in Real Life (2007)",
+        "slug": "dan-in-real-life-2007",
+        "year": 2007,
+        "rating": 6.8,
+        "runtime": 98,
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "like_count": 55,
+        "description_intro": "Single father Dan Burns dedicates his life to his children, but one day he meets Marie at a bookstore. They get to know each other, but then Dan finds out that Marie is actually dating his brother, Mitch.—Marisa_Gabriella",
+        "description_full": "Një burrë i ve i zbulon se gruaja me të cilën është dashuruar është e dashura e vëllait të tij.",
+        "yt_trailer_code": "5t2lxao1MvM",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/Dan_in_Real_Life_2007/background.jpg",
+        "small_cover_image": "/assets/images/movies/Dan_in_Real_Life_2007/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/Dan_in_Real_Life_2007/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/Dan_in_Real_Life_2007/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/Dan_in_Real_Life_2007/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/Dan_in_Real_Life_2007/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/Dan_in_Real_Life_2007/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/Dan_in_Real_Life_2007/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/Dan_in_Real_Life_2007/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/Dan_in_Real_Life_2007/large-screenshot3.jpg",
+        "cast": [
+          {
+            "name": "Emily Blunt",
+            "character_name": "Ruthie Draper",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm1289434.jpg",
+            "imdb_code": "1289434"
+          },
+          {
+            "name": "Norbert Leo Butz",
+            "character_name": "Clay",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0125475.jpg",
+            "imdb_code": "0125475"
+          },
+          {
+            "name": "Steve Carell",
+            "character_name": "Dan",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0136797.jpg",
+            "imdb_code": "0136797"
+          },
+          {
+            "name": "Britt Robertson",
+            "character_name": "Cara",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm1429380.jpg",
+            "imdb_code": "1429380"
+          }
+        ],
+        "torrents": [
+          {
+            "url": "/torrent/download/6B3E6801E76A9CDA4AE69417A6FA9DF6C321CEE1?byvbiIGrJRorHGVo6fWjlYaNHC4vrhx8gem9ydcthrtP",
+            "hash": "6B3E6801E76A9CDA4AE69417A6FA9DF6C321CEE1",
+            "quality": "720p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "651.20 MB",
+            "size_bytes": 682832691
+          },
+          {
+            "url": "/torrent/download/08930162B0AB007C53C567DE9C57CA6746075CE0?byvbiIGrJRorHGVo6fWjlYaNHC4vrhx8gem9ydcthrtP",
+            "hash": "08930162B0AB007C53C567DE9C57CA6746075CE0",
+            "quality": "1080p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.50 GB",
+            "size_bytes": 1610612736
+          }
+        ]
+      }
+    },
+    {
+      "title": "Out of the Furnace (2013)",
+      "year": 2013,
+      "subtitle_list": [
+        {
+          "id": 13480660,
+          "filename": "Out of the Furnace 2013 ALBANIAN SUBS",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13480660"
+        }
+      ],
+      "date_uploaded": "2026-01-08 03:55:44",
+      "yts_data": {
+        "id": 2265,
+        "url": "/movies/out-of-the-furnace-2013?KfrYGbEm9pBL3y-E3rfEN7JrDk61CyVRq6wmVImUXTa_",
+        "imdb_code": "tt1206543",
+        "title": "Out of the Furnace",
+        "title_english": "Out of the Furnace",
+        "title_long": "Out of the Furnace (2013)",
+        "slug": "out-of-the-furnace-2013",
+        "year": 2013,
+        "rating": 6.7,
+        "runtime": 116,
+        "genres": [
+          "Action",
+          "Crime",
+          "Drama",
+          "Thriller"
+        ],
+        "like_count": 80,
+        "description_intro": "Russell and his younger brother Rodney live in the economically depressed Rust Belt and have always dreamed of escaping and finding better lives. But when a cruel twist of fate lands Russell in prison, Rodney becomes involved with one of the most violent and ruthless crime rings in the Northeast - a mistake that will cost him everything. Once released, Russell must choose between his own freedom or risking it all to seek justice for his brother.—Production",
+        "description_full": "Një punëtor çeliku merr gjërat në dorë pasi policia dështon të gjejë vëllain e tij të humbur.",
+        "yt_trailer_code": "nKZMZLd6TqE",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/Out_of_the_Furnace_2013/background.jpg",
+        "small_cover_image": "/assets/images/movies/Out_of_the_Furnace_2013/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/Out_of_the_Furnace_2013/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/Out_of_the_Furnace_2013/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/Out_of_the_Furnace_2013/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/Out_of_the_Furnace_2013/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/Out_of_the_Furnace_2013/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/Out_of_the_Furnace_2013/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/Out_of_the_Furnace_2013/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/Out_of_the_Furnace_2013/large-screenshot3.jpg",
+        "cast": [
+          {
+            "name": "Zoe Saldana",
+            "character_name": "Lena Taylor",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0757855.jpg",
+            "imdb_code": "0757855"
+          },
+          {
+            "name": "Woody Harrelson",
+            "character_name": "Harlan DeGroat",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000437.jpg",
+            "imdb_code": "0000437"
+          },
+          {
+            "name": "Christian Bale",
+            "character_name": "Russell Baze",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000288.jpg",
+            "imdb_code": "0000288"
+          },
+          {
+            "name": "Willem Dafoe",
+            "character_name": "John Petty",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000353.jpg",
+            "imdb_code": "0000353"
+          }
+        ],
+        "torrents": [
+          {
+            "url": "/torrent/download/48B0E94CF3688C4EBE0D7B221CAC41069AF062F5?KfrYGbEm9pBL3y-E3rfEN7JrDk61CyVRq6wmVImUXTa_",
+            "hash": "48B0E94CF3688C4EBE0D7B221CAC41069AF062F5",
+            "quality": "720p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "863.83 MB",
+            "size_bytes": 905791406
+          },
+          {
+            "url": "/torrent/download/E2CC7593AC5030CD09FDEDA8223DCA3DB537FAE3?KfrYGbEm9pBL3y-E3rfEN7JrDk61CyVRq6wmVImUXTa_",
+            "hash": "E2CC7593AC5030CD09FDEDA8223DCA3DB537FAE3",
+            "quality": "1080p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.84 GB",
+            "size_bytes": 1975684956
+          }
+        ]
+      }
+    },
+    {
+      "title": "Shock and Awe (2017)",
+      "year": 2017,
+      "subtitle_list": [
+        {
+          "id": 13480661,
+          "filename": "Shock and Awe 2017 ALBANIAN SUBS",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13480661"
+        }
+      ],
+      "date_uploaded": "2026-01-08 03:55:40",
+      "yts_data": {
+        "id": 8295,
+        "url": "/movies/shock-and-awe-2017?y53IjrlK9XfrHi1Urt51O1pXLT-84Jn46JW1b1DA8cYg",
+        "imdb_code": "tt5540992",
+        "title": "Shock and Awe",
+        "title_english": "Shock and Awe",
+        "title_long": "Shock and Awe (2017)",
+        "slug": "shock-and-awe-2017",
+        "year": 2017,
+        "rating": 6.4,
+        "runtime": 90,
+        "genres": [
+          "Action",
+          "Biography",
+          "Drama",
+          "History",
+          "Thriller",
+          "War"
+        ],
+        "like_count": 26,
+        "description_intro": "On 9/11 2001, the World Trade Center is destroyed by the Al Qaeda terrorist organization. In the resulting tumult, the reporters of the Knight-Ridder news service, Jonathan Landay and Warren Strobel under the editorship of John Walcott, hear odd reports that President Bush's senior administration is not so much concerned with finding the Al Qaeda leader, Osama Bin Laden, as they are in blaming the secular dictator of Iraq, Saddam Hussein. Despite their intelligence sources saying that Hussein had nothing to do with 9/11, the K-R reporters discover that the White House is obsessed with finding any excuse to attack Iraq with cherry-picking intelligence reports and blatant lies by its officials. As the journalists dig deeper, their competitors uncritically repeat the Bush Administration's falsehoods that too much of the public is gullible enough to believe, making their quest to find and print the truth proves as a frustrating struggle as events barrel to a needless war.—Kenneth Chisholm (kchishol1970@gmail.com)",
+        "description_full": "Një grup gazetarësh nga shërbimi i lajmeve Knight-Ridder që mbulojnë pushtimin e planifikuar të Irakut nga Presidenti George W. Bush në 2003 janë skeptikë ndaj pretendimit të Presidentit se Sadam Huseini ka \"armë të shkatërrimit në masë\".",
+        "yt_trailer_code": "-9xTDZDYfI8",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/shock_and_awe_2017/background.jpg",
+        "small_cover_image": "/assets/images/movies/shock_and_awe_2017/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/shock_and_awe_2017/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/shock_and_awe_2017/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/shock_and_awe_2017/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/shock_and_awe_2017/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/shock_and_awe_2017/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/shock_and_awe_2017/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/shock_and_awe_2017/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/shock_and_awe_2017/large-screenshot3.jpg",
+        "cast": [
+          {
+            "name": "Tommy Lee Jones",
+            "character_name": "Joe Galloway",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000169.jpg",
+            "imdb_code": "0000169"
+          },
+          {
+            "name": "James Marsden",
+            "character_name": "Warren Strobel",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0005188.jpg",
+            "imdb_code": "0005188"
+          },
+          {
+            "name": "Jessica Biel",
+            "character_name": "Lisa",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0004754.jpg",
+            "imdb_code": "0004754"
+          },
+          {
+            "name": "Milla Jovovich",
+            "character_name": "Vlatka Landay",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000170.jpg",
+            "imdb_code": "0000170"
+          }
+        ],
+        "torrents": [
+          {
+            "url": "/torrent/download/C6CC9F9DA3B342E1FDFFF143540B114D1EFF17C6?y53IjrlK9XfrHi1Urt51O1pXLT-84Jn46JW1b1DA8cYg",
+            "hash": "C6CC9F9DA3B342E1FDFFF143540B114D1EFF17C6",
+            "quality": "720p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "767.82 MB",
+            "size_bytes": 805117624
+          },
+          {
+            "url": "/torrent/download/95EABD239C6D67DFA19CAEBD15CFE8502E004731?y53IjrlK9XfrHi1Urt51O1pXLT-84Jn46JW1b1DA8cYg",
+            "hash": "95EABD239C6D67DFA19CAEBD15CFE8502E004731",
+            "quality": "1080p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.45 GB",
+            "size_bytes": 1556925645
+          },
+          {
+            "url": "/torrent/download/BCBE7A0137E2B48AAC156EF25CA36A00145FF16E?y53IjrlK9XfrHi1Urt51O1pXLT-84Jn46JW1b1DA8cYg",
+            "hash": "BCBE7A0137E2B48AAC156EF25CA36A00145FF16E",
+            "quality": "720p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "765.38 MB",
+            "size_bytes": 802559099
+          },
+          {
+            "url": "/torrent/download/568F1EA3EA4F3F30DAAE1C8DE45D0D0DD62FA4FC?y53IjrlK9XfrHi1Urt51O1pXLT-84Jn46JW1b1DA8cYg",
+            "hash": "568F1EA3EA4F3F30DAAE1C8DE45D0D0DD62FA4FC",
+            "quality": "1080p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.44 GB",
+            "size_bytes": 1546188227
+          }
+        ]
+      }
+    },
+    {
+      "title": "Date Night (2010)",
+      "year": 2010,
+      "subtitle_list": [
+        {
+          "id": 13480662,
+          "filename": "Date Night 2010 ALBANIAN SUBS",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13480662"
+        }
+      ],
+      "date_uploaded": "2026-01-08 03:55:37",
+      "yts_data": {
+        "id": 842,
+        "url": "/movies/date-night-2010?ENPN0X4g_K8x5PId-k1tyyj33oZRFufGEMbxXHX8hC9C",
+        "imdb_code": "tt1279935",
+        "title": "Date Night",
+        "title_english": "Date Night",
+        "title_long": "Date Night (2010)",
+        "slug": "date-night-2010",
+        "year": 2010,
+        "rating": 6.3,
+        "runtime": 88,
+        "genres": [
+          "Action",
+          "Comedy",
+          "Crime",
+          "Romance",
+          "Thriller"
+        ],
+        "like_count": 110,
+        "description_intro": "Phil and Claire Foster are a couple who have been married for several years. Their days consists of them taking care of their children and going to work and coming home and going to bed. But they find time to have a date night wherein they go out and spend some time together. When another couple they know announce that they're separating because they're in a rut, Phil feels that he and Claire could be too. So when date night comes Phil decides to do something different. So they go into the city and try to get into a new popular restaurant. But when it's full and still wanting to do this, Phil decides to take the reservation of a couple who doesn't show up. While they're having dinner two men approach them and instructs them to stand up and go with them. They think the men are with the restaurant and want to talk to them about taking someone else's reservation. But it appears the couple whose reservation they took crossed someone and the two men work for this person. The men are after something, but whatever it is they don't have it.—rcs0411@yahoo.com",
+        "description_full": "Në qytetin e Nju Jorkut, një rast i identitetit të gabuar e kthen përpjekjen e një çifti të martuar të mërzitur për një mbrëmje glamuroze dhe romantike në diçka më emocionuese dhe të rrezikshme.",
+        "yt_trailer_code": "aspBKFz2dBI",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/Date_Night_2010/background.jpg",
+        "small_cover_image": "/assets/images/movies/Date_Night_2010/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/Date_Night_2010/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/Date_Night_2010/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/Date_Night_2010/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/Date_Night_2010/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/Date_Night_2010/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/Date_Night_2010/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/Date_Night_2010/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/Date_Night_2010/large-screenshot3.jpg",
+        "cast": [
+          {
+            "name": "Mila Kunis",
+            "character_name": "Whippit",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0005109.jpg",
+            "imdb_code": "0005109"
+          },
+          {
+            "name": "Mark Wahlberg",
+            "character_name": "Holbrooke",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000242.jpg",
+            "imdb_code": "0000242"
+          },
+          {
+            "name": "Will.i.am",
+            "character_name": "Will.I.Am",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm1443238.jpg",
+            "imdb_code": "1443238"
+          },
+          {
+            "name": "Jon Bernthal",
+            "character_name": "Young Man",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm1256532.jpg",
+            "imdb_code": "1256532"
+          }
+        ],
+        "torrents": [
+          {
+            "url": "/torrent/download/541F9E3E87CCFDE9E59BE87C879052AAA5765506?ENPN0X4g_K8x5PId-k1tyyj33oZRFufGEMbxXHX8hC9C",
+            "hash": "541F9E3E87CCFDE9E59BE87C879052AAA5765506",
+            "quality": "720p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "700.63 MB",
+            "size_bytes": 734663803
+          },
+          {
+            "url": "/torrent/download/4424BEBF65FEC7B287D25FB95332EF51FCA39174?ENPN0X4g_K8x5PId-k1tyyj33oZRFufGEMbxXHX8hC9C",
+            "hash": "4424BEBF65FEC7B287D25FB95332EF51FCA39174",
+            "quality": "1080p",
+            "type": "bluray",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.40 GB",
+            "size_bytes": 1503238554
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Highwaymen (2019)",
+      "year": 2019,
+      "subtitle_list": [
+        {
+          "id": 13480664,
+          "filename": "The Highwaymen 2019 ALBANIAN SUBS",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13480664"
+        }
+      ],
+      "date_uploaded": "2026-01-08 03:55:33",
+      "yts_data": {
+        "id": 11374,
+        "url": "/movies/the-highwaymen-2019?3zTJaFe2qHaEuaFeZJUwJ-esaoxmEyhLs743U5cCqvzS",
+        "imdb_code": "tt1860242",
+        "title": "The Highwaymen",
+        "title_english": "The Highwaymen",
+        "title_long": "The Highwaymen (2019)",
+        "slug": "the-highwaymen-2019",
+        "year": 2019,
+        "rating": 6.9,
+        "runtime": 132,
+        "genres": [
+          "Action",
+          "Biography",
+          "Crime",
+          "Drama",
+          "Mystery",
+          "Thriller",
+          "Western"
+        ],
+        "like_count": 169,
+        "description_intro": "The outlaws made headlines. The lawmen made history. From director John Lee Hancock (The Blind Side), THE HIGHWAYMEN follows the untold story of the legendary detectives who brought down Bonnie and Clyde. When the full force of the FBI and the latest forensic technology aren't enough to capture the nation's most notorious criminals, two former Texas Rangers (Kevin Costner and Woody Harrelson) must rely on their gut instincts and old school skills to get the job done.—Netflix",
+        "description_full": "Historia e vërtetë e pathënë e detektivëve legjendarë që rrëzuan Bonnie dhe Clyde.",
+        "yt_trailer_code": "aH6vC-BBKOc",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/the_highwaymen_2019/background.jpg",
+        "small_cover_image": "/assets/images/movies/the_highwaymen_2019/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/the_highwaymen_2019/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/the_highwaymen_2019/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/the_highwaymen_2019/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/the_highwaymen_2019/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/the_highwaymen_2019/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/the_highwaymen_2019/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/the_highwaymen_2019/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/the_highwaymen_2019/large-screenshot3.jpg",
+        "cast": [
+          {
+            "name": "Kevin Costner",
+            "character_name": "Frank Hamer",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000126.jpg",
+            "imdb_code": "0000126"
+          },
+          {
+            "name": "Woody Harrelson",
+            "character_name": "Maney Gault",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000437.jpg",
+            "imdb_code": "0000437"
+          },
+          {
+            "name": "Kathy Bates",
+            "character_name": "Governor Ma Ferguson",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000870.jpg",
+            "imdb_code": "0000870"
+          },
+          {
+            "name": "William Sadler",
+            "character_name": "Henry Barrow",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0006669.jpg",
+            "imdb_code": "0006669"
+          }
+        ],
+        "torrents": [
+          {
+            "url": "/torrent/download/D3F672785A16A6C117A6440B84186D975AEA9B3B?3zTJaFe2qHaEuaFeZJUwJ-esaoxmEyhLs743U5cCqvzS",
+            "hash": "D3F672785A16A6C117A6440B84186D975AEA9B3B",
+            "quality": "720p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.1 GB",
+            "size_bytes": 1181116006
+          },
+          {
+            "url": "/torrent/download/3A1F84DB88E0FDA10010A9875678AF710BDB5302?3zTJaFe2qHaEuaFeZJUwJ-esaoxmEyhLs743U5cCqvzS",
+            "hash": "3A1F84DB88E0FDA10010A9875678AF710BDB5302",
+            "quality": "1080p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "2.11 GB",
+            "size_bytes": 2265595249
+          },
+          {
+            "url": "/torrent/download/D28DF9348EFAA9AD69E3B992A92E7E5141E91D35?3zTJaFe2qHaEuaFeZJUwJ-esaoxmEyhLs743U5cCqvzS",
+            "hash": "D28DF9348EFAA9AD69E3B992A92E7E5141E91D35",
+            "quality": "2160p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x265",
+            "bit_depth": "10",
+            "audio_channels": "5.1",
+            "size": "5.88 GB",
+            "size_bytes": 6313601925
+          }
+        ]
+      }
+    },
+    {
       "title": "The Tiger (2025)",
       "year": 2025,
       "subtitle_list": [
