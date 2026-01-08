@@ -3977,6 +3977,103 @@
           }
         ]
       }
+    },
+    "tt34250044": {
+      "title": "Peter Hujar's Day (2025)",
+      "year": 2025,
+      "subtitle_list": [
+        {
+          "id": 13482791,
+          "filename": "Peter.Hujars.Day.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-MADSKY-VETEMSHQIP",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13482791"
+        }
+      ],
+      "date_uploaded": "2026-01-08 17:03:04",
+      "yts_data": {
+        "id": 73396,
+        "url": "/movies/peter-hujars-day-2025?Nu5AsaPsWO2P69f2rd_Q8XoizXJjjeNSBZNdUwf7AeqsBg",
+        "imdb_code": "tt34250044",
+        "title": "Peter Hujar's Day",
+        "title_english": "Peter Hujar's Day",
+        "title_long": "Peter Hujar's Day (2025)",
+        "slug": "peter-hujars-day-2025",
+        "year": 2025,
+        "rating": 6.5,
+        "runtime": 76,
+        "genres": [
+          "Biography",
+          "Drama",
+          "History"
+        ],
+        "like_count": 2,
+        "description_intro": "",
+        "description_full": "Biseda mes fotografit Peter Hujar dhe Linda Rosenkrantz nga viti 1974 hedh dritë mbi botën e gjallë artistike të New York-ut dhe udhëtimin introspektiv të jetës së një artisti.",
+        "yt_trailer_code": "hSw2IgGgMaM",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/peter_hujars_day_2025/background.jpg",
+        "small_cover_image": "/assets/images/movies/peter_hujars_day_2025/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/peter_hujars_day_2025/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/peter_hujars_day_2025/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/peter_hujars_day_2025/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/peter_hujars_day_2025/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/peter_hujars_day_2025/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/peter_hujars_day_2025/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/peter_hujars_day_2025/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/peter_hujars_day_2025/large-screenshot3.jpg",
+        "cast": [
+          {
+            "name": "Rebecca Hall",
+            "character_name": "Linda Rosenkrantz",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0356017.jpg",
+            "imdb_code": "0356017"
+          },
+          {
+            "name": "Ben Whishaw",
+            "character_name": "Peter Hujar",
+            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0924210.jpg",
+            "imdb_code": "0924210"
+          }
+        ],
+        "torrents": [
+          {
+            "url": "/torrent/download/C04237A244BE1EBE5206D7805636857957DE7D36?Nu5AsaPsWO2P69f2rd_Q8XoizXJjjeNSBZNdUwf7AeqsBg",
+            "hash": "C04237A244BE1EBE5206D7805636857957DE7D36",
+            "quality": "720p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "700.43 MB",
+            "size_bytes": 734454088
+          },
+          {
+            "url": "/torrent/download/E1E7E205BDB9659E1B4072E03BDEC389604A4D8B?Nu5AsaPsWO2P69f2rd_Q8XoizXJjjeNSBZNdUwf7AeqsBg",
+            "hash": "E1E7E205BDB9659E1B4072E03BDEC389604A4D8B",
+            "quality": "1080p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "5.1",
+            "size": "1.4 GB",
+            "size_bytes": 1503238554
+          },
+          {
+            "url": "/torrent/download/32E9F8C2A850EC9BD362089E9C6360D80D9ABBE4?Nu5AsaPsWO2P69f2rd_Q8XoizXJjjeNSBZNdUwf7AeqsBg",
+            "hash": "32E9F8C2A850EC9BD362089E9C6360D80D9ABBE4",
+            "quality": "1080p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x265",
+            "bit_depth": "10",
+            "audio_channels": "5.1",
+            "size": "1.27 GB",
+            "size_bytes": 1363652116
+          }
+        ]
+      }
     }
   }
 }
