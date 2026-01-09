@@ -2,6 +2,159 @@
   "yts_url": "https://yts.lt",
   "movies": [
     {
+      "title": "Palestine 36 (2025)",
+      "year": 2025,
+      "subtitle_list": [
+        {
+          "id": 13484478,
+          "filename": "Palestine.36.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-Kitsune-VETEMSHQIP",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13484478"
+        }
+      ],
+      "date_uploaded": "2026-01-09 17:04:15",
+      "yts_data": {
+        "id": 73294,
+        "url": "/movies/palestine-36-2025?_Ste4gpRmyNjPD_b4LVe7KQg6RQaUA5lNqG4D_6ojNbK",
+        "imdb_code": "tt29271622",
+        "title": "Palestine 36",
+        "title_english": "Palestine 36",
+        "title_long": "Palestine 36 (2025)",
+        "slug": "palestine-36-2025",
+        "year": 2025,
+        "rating": 7.9,
+        "runtime": 115,
+        "genres": [
+          "Biography",
+          "Drama",
+          "History",
+          "War"
+        ],
+        "like_count": 20,
+        "description_intro": "",
+        "description_full": "Në vitin 1936, ndërsa fshatrat palestineze revoltohen kundër sundimit kolonial britanik, Yusuf udhëton mes Jeruzalemit dhe shtëpisë së tij rurale, mes trazirave në rritje dhe një momenti kyç për Perandorinë Britanike.",
+        "yt_trailer_code": "14H4J8bewDY",
+        "language": "ar",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/palestine_36_2025/background.jpg",
+        "small_cover_image": "/assets/images/movies/palestine_36_2025/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/palestine_36_2025/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/palestine_36_2025/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/palestine_36_2025/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/palestine_36_2025/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/palestine_36_2025/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/palestine_36_2025/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/palestine_36_2025/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/palestine_36_2025/large-screenshot3.jpg",
+        "torrents": [
+          {
+            "url": "/torrent/download/095DF9C21D98A1A54F86D4CB22080BB3D5E0B125?_Ste4gpRmyNjPD_b4LVe7KQg6RQaUA5lNqG4D_6ojNbK",
+            "hash": "095DF9C21D98A1A54F86D4CB22080BB3D5E0B125",
+            "quality": "720p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.07 GB",
+            "size_bytes": 1148903752
+          },
+          {
+            "url": "/torrent/download/8A31A1E93C3A474400597896D85798D0422022A2?_Ste4gpRmyNjPD_b4LVe7KQg6RQaUA5lNqG4D_6ojNbK",
+            "hash": "8A31A1E93C3A474400597896D85798D0422022A2",
+            "quality": "1080p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "5.1",
+            "size": "2.21 GB",
+            "size_bytes": 2372969431
+          },
+          {
+            "url": "/torrent/download/B2787B7545E76FECF2D6B5F42CA5A127313AD9AE?_Ste4gpRmyNjPD_b4LVe7KQg6RQaUA5lNqG4D_6ojNbK",
+            "hash": "B2787B7545E76FECF2D6B5F42CA5A127313AD9AE",
+            "quality": "1080p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x265",
+            "bit_depth": "10",
+            "audio_channels": "5.1",
+            "size": "2 GB",
+            "size_bytes": 2147483648
+          }
+        ]
+      }
+    },
+    {
+      "title": "People We Meet on Vacation (2026)",
+      "year": 2026,
+      "subtitle_list": [
+        {
+          "id": 13484528,
+          "filename": "People.We.Meet.on.Vacation.2026.1080p.WEB.h264-ETHEL-VETEMSHQIP",
+          "download_link": "https://dl.opensubtitles.org/en/download/sub/13484528"
+        }
+      ],
+      "date_uploaded": "2026-01-09 17:04:12",
+      "yts_data": {
+        "id": 73422,
+        "url": "/movies/people-we-meet-on-vacation-2026?lGi8leSUBh_MIuDPTBXk-BmzdMc49UXzoCPWpEWrkKO4",
+        "imdb_code": "tt22740896",
+        "title": "People We Meet on Vacation",
+        "title_english": "People We Meet on Vacation",
+        "title_long": "People We Meet on Vacation (2026)",
+        "slug": "people-we-meet-on-vacation-2026",
+        "year": 2026,
+        "rating": 0,
+        "runtime": 117,
+        "genres": [
+          "Romance"
+        ],
+        "like_count": 3,
+        "description_intro": "",
+        "description_full": "Poppy dëshiron të eksplorojë botën dhe Aleks preferon të qëndrojë në shtëpi me një libër të mirë, por disi ata janë miqtë më të mirë. Ata jetojnë larg njëri-tjetrit, por për një dekadë kanë kaluar një javë të pushimeve verore së bashku.",
+        "yt_trailer_code": "m1C9DTOUH5s",
+        "language": "en",
+        "mpa_rating": "",
+        "background_image": "/assets/images/movies/people_we_meet_on_vacation_2026/background.jpg",
+        "small_cover_image": "/assets/images/movies/people_we_meet_on_vacation_2026/small-cover.jpg",
+        "medium_cover_image": "/assets/images/movies/people_we_meet_on_vacation_2026/medium-cover.jpg",
+        "large_cover_image": "/assets/images/movies/people_we_meet_on_vacation_2026/large-cover.jpg",
+        "medium_screenshot_image1": "/assets/images/movies/people_we_meet_on_vacation_2026/medium-screenshot1.jpg",
+        "medium_screenshot_image2": "/assets/images/movies/people_we_meet_on_vacation_2026/medium-screenshot2.jpg",
+        "medium_screenshot_image3": "/assets/images/movies/people_we_meet_on_vacation_2026/medium-screenshot3.jpg",
+        "large_screenshot_image1": "/assets/images/movies/people_we_meet_on_vacation_2026/large-screenshot1.jpg",
+        "large_screenshot_image2": "/assets/images/movies/people_we_meet_on_vacation_2026/large-screenshot2.jpg",
+        "large_screenshot_image3": "/assets/images/movies/people_we_meet_on_vacation_2026/large-screenshot3.jpg",
+        "torrents": [
+          {
+            "url": "/torrent/download/DD077C3194614F78B01A2B2C081FB2450D46B694?lGi8leSUBh_MIuDPTBXk-BmzdMc49UXzoCPWpEWrkKO4",
+            "hash": "DD077C3194614F78B01A2B2C081FB2450D46B694",
+            "quality": "720p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "2.0",
+            "size": "1.06 GB",
+            "size_bytes": 1138166333
+          },
+          {
+            "url": "/torrent/download/4553279E5D168C9EC9B457DF3A35E34464D988A8?lGi8leSUBh_MIuDPTBXk-BmzdMc49UXzoCPWpEWrkKO4",
+            "hash": "4553279E5D168C9EC9B457DF3A35E34464D988A8",
+            "quality": "1080p",
+            "type": "web",
+            "is_repack": "0",
+            "video_codec": "x264",
+            "bit_depth": "8",
+            "audio_channels": "5.1",
+            "size": "2.18 GB",
+            "size_bytes": 2340757176
+          }
+        ]
+      }
+    },
+    {
       "title": "On the Silver Globe (1988)",
       "year": 1988,
       "subtitle_list": [
@@ -4249,159 +4402,6 @@
             "character_name": "Alex Clark",
             "url_small_image": null,
             "imdb_code": "0502097"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Marshmallow (2025)",
-      "year": 2025,
-      "subtitle_list": [
-        {
-          "id": 13468656,
-          "filename": "Marshmallow.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-VETEMSHQIP",
-          "download_link": "https://dl.opensubtitles.org/en/download/sub/13468656"
-        }
-      ],
-      "date_uploaded": "2026-01-05 09:52:01",
-      "yts_data": {
-        "id": 69736,
-        "imdb_code": "tt15220066",
-        "title": "Marshmallow",
-        "year": 2025,
-        "rating": 5.7,
-        "runtime": 93,
-        "genres": [
-          "Horror",
-          "Sci-Fi"
-        ],
-        "description_full": "Kur një rrëfenjë dikur legjendare rreth zjarrit të kampit bëhet e vërtetë, një grup kampistësh zbulojnë një sekret të thellë që vë në pikëpyetje vetë ekzistencën e tyre.",
-        "yt_trailer_code": "U4chD0nN0hU",
-        "language": "en",
-        "background_image": "/assets/images/movies/marshmallow_2025/background.jpg",
-        "medium_cover_image": "/assets/images/movies/marshmallow_2025/medium-cover.jpg",
-        "large_cover_image": "/assets/images/movies/marshmallow_2025/large-cover.jpg",
-        "torrents": [
-          {
-            "hash": "2B2A1449C994B5657695DE306B58F457F3FD98B7",
-            "quality": "720p",
-            "type": "web",
-            "video_codec": "x264",
-            "size": "852.23 MB",
-            "size_bytes": 893627924
-          },
-          {
-            "hash": "9C0A94864FA01880B6E3046F94FF99DD9F3272C8",
-            "quality": "1080p",
-            "type": "web",
-            "video_codec": "x264",
-            "size": "1.71 GB",
-            "size_bytes": 1836098519
-          }
-        ],
-        "like_count": 27,
-        "cast": [
-          {
-            "name": "Amanda Clayton",
-            "character_name": "Deputy Maxwell",
-            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm1767726.jpg",
-            "imdb_code": "1767726"
-          },
-          {
-            "name": "Paul Soter",
-            "character_name": "Collins",
-            "url_small_image": null,
-            "imdb_code": "0815418"
-          },
-          {
-            "name": "Pierson Fode",
-            "character_name": "Kaszwar",
-            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm4943457.jpg",
-            "imdb_code": "4943457"
-          },
-          {
-            "name": "Miya Cech",
-            "character_name": "May",
-            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm7195971.jpg",
-            "imdb_code": "7195971"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Skiptrace (2016)",
-      "year": 2016,
-      "subtitle_list": [
-        {
-          "id": 13471257,
-          "filename": "Skiptrace 2016 albshare",
-          "download_link": "https://dl.opensubtitles.org/en/download/sub/13471257"
-        }
-      ],
-      "date_uploaded": "2026-01-05 09:51:54",
-      "yts_data": {
-        "id": 6128,
-        "imdb_code": "tt2238032",
-        "title": "Skiptrace",
-        "year": 2016,
-        "rating": 5.6,
-        "runtime": 107,
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Crime",
-          "Thriller"
-        ],
-        "description_full": "Një detektiv nga Hong Kongu bashkohet me një bixhozxhi amerikan për të luftuar kundër një krimineli famëkeq kinez.",
-        "yt_trailer_code": "z1iefFsPSaw",
-        "language": "en",
-        "background_image": "/assets/images/movies/jue_di_tao_wang_2016/background.jpg",
-        "medium_cover_image": "/assets/images/movies/jue_di_tao_wang_2016/medium-cover.jpg",
-        "large_cover_image": "/assets/images/movies/jue_di_tao_wang_2016/large-cover.jpg",
-        "torrents": [
-          {
-            "hash": "DE2EA30E833173C008A50C98EACF441658FECCC7",
-            "quality": "720p",
-            "type": "bluray",
-            "video_codec": "x264",
-            "size": "799.46 MB",
-            "size_bytes": 838294569
-          },
-          {
-            "hash": "E28C786BF133DD10219A57F197206F891E71B8FD",
-            "quality": "1080p",
-            "type": "bluray",
-            "video_codec": "x264",
-            "size": "1.65 GB",
-            "size_bytes": 1771674010
-          }
-        ],
-        "like_count": 246,
-        "cast": [
-          {
-            "name": "Jackie Chan",
-            "character_name": "Bennie Chan",
-            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0000329.jpg",
-            "imdb_code": "0000329"
-          },
-          {
-            "name": "Bingbing Fan",
-            "character_name": "Samatha Bai",
-            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm1549063.jpg",
-            "imdb_code": "1549063"
-          },
-          {
-            "name": "Richard Ng",
-            "character_name": "Chinese Man On Bus",
-            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0628827.jpg",
-            "imdb_code": "0628827"
-          },
-          {
-            "name": "Johnny Knoxville",
-            "character_name": "Connor Watts",
-            "url_small_image": "https://yts.lt/assets/images/actors/thumb/nm0424216.jpg",
-            "imdb_code": "0424216"
           }
         ]
       }
