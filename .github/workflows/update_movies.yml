@@ -26,8 +26,8 @@ jobs:
       
       - name: Run Scraper
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scraper.py
+          GEMINI_API_KEY: \${{ secrets.GEMINI_API_KEY }}
+        run: python scraper.py --once
 
       # ---------------------------------------------------------
       # STEP 2: Publish (DIRECT CONNECTION - NO VPN)
@@ -44,17 +44,17 @@ jobs:
             ~/.cargo/registry
             ~/.cargo/git
             publisher/target
-          key: ${{ runner.os }}-cargo-${{ hashFiles('publisher/Cargo.lock') }}
+          key: \${{ runner.os }}-cargo-\${{ hashFiles('publisher/Cargo.lock') }}
           restore-keys: |
-            ${{ runner.os }}-cargo-
+            \${{ runner.os }}-cargo-
       
       - name: Publish to Iroh Network
         working-directory: ./publisher
         env:
-          PUBLISHER_SECRET: ${{ secrets.PUBLISHER_SECRET }}
+          PUBLISHER_SECRET: \${{ secrets.PUBLISHER_SECRET }}
         run: |
           mkdir -p publisher_data
-          if [ -n "$PUBLISHER_SECRET" ]; then
+          if [ -n "\$PUBLISHER_SECRET" ]; then
              echo "Importing Secret Key..."
              python3 -c "import os, binascii; path='publisher_data/secret_key'; hexval=os.environ['PUBLISHER_SECRET']; open(path, 'wb').write(binascii.unhexlify(hexval))"
           else
